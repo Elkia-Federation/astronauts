@@ -3,12 +3,12 @@
 '''
     read_essays.py
 
-    This Python file can be used as a starting point for  
+    This Python file can be used as a starting point for
     teaching the computer to grade a school essay.
 '''
 
 # Don't worry about these 2 lines
-from essays.en1 import essay_en1    
+from essays.en1 import essay_en1
 from essays.en2 import essay_en2
 
 
